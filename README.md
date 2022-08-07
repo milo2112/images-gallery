@@ -1,3 +1,7 @@
+# Repositorio de entrega de desafio Galeria de imágenes con React
+
+![image](https://user-images.githubusercontent.com/31677756/183278771-3ecc90eb-2382-4374-91f3-b9ff471b6275.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
